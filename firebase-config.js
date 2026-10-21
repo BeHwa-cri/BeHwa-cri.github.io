@@ -23,7 +23,7 @@ window.SITE_CONFIG = {
 
   /* [3-2] 멤버 비밀번호 — 마왕군원들에게 공유! (카드 수정, 영상, 댓글, 건의, 호출)
      ""로 비워두면 예전처럼 누구나 수정 가능 */
-  memberCode: "tiger0802",
+  memberCode: "tiger0502",
 
   /* [4] 길드 카카오톡 오픈채팅방 링크 (있으면 붙여넣기) */
   openChatUrl: "https://open.kakao.com/o/gwRaaNJi",
